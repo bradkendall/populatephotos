@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>992415E9-4524-4CFD-B3A0-1FFBA27310FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PopulatePhotos</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4F162FB0162C7B0E957BE085212B61A496C3020</key>
+		<string>https://github.com/bradkendall/populatephotos.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PopulatePhotos.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4F162FB0162C7B0E957BE085212B61A496C3020</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bradkendall/populatephotos.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4F162FB0162C7B0E957BE085212B61A496C3020</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4F162FB0162C7B0E957BE085212B61A496C3020</string>
+			<key>IDESourceControlWCCName</key>
+			<string>populatephotos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
